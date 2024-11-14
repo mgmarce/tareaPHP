@@ -1,3 +1,4 @@
-#Marcela Carolina Menjívar Gutiérrez
-##fsj24A
-###Ejercicios php
+#Datos alumno:
+Nombre: Marcela Carolina Menjívar Gutiérrez
+Bootcamp: fsj24A
+Actividad: Ejercicios php
